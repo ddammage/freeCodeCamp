@@ -1,3 +1,4 @@
+//Learn About Functional Programming
 const prepareTea = () => 'greenTea';
 const getTea = (numOfCups) => {
   const teaCups = [];
