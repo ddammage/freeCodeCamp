@@ -2,4 +2,4 @@
 
 [functional Programming](https://github.com/ddammage/freeCodeCamp/blob/main/functionalProgramming)
 
-> in this link, i will post tasks that i completed in freeCodeCamp
+> link above show the tasks that i completed
